@@ -24,7 +24,6 @@ export default function Home() {
         <div className="flex w-full flex-col gap-5 md:flex-row">
           Search
           CaregoryFilter
-          // stop video 55 min
         </div>
       </section>
     </>
